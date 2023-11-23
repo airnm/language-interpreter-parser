@@ -1,8 +1,8 @@
-# language-interpreter-parser
+# language-Interpreter-Parser
 
-this is an ongoing multistep process in creating a parser/interpreter for a few sample files the the language dart. The goal is I can intrepreter these files which all have different purposes.
+This is an ongoing multistep process in creating a parser/interpreter for a few sample files the the language dart. The goal is I can intrepreter these files which all have different purposes.
 
-# The three sample files
+# The Three Sample Files
 
 - One file is a hello world file, just a basic file to begin parsing and interpreting 
 - The second file is a Quadratic function file, this is where will start to use some math and and conditional statements to see if its easy to interpret 
